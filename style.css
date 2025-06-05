@@ -1,0 +1,48 @@
+.fruit-images{
+    display: block;
+    justify-content: space-around;
+    width: 300px;
+    height: 250px;
+    border-radius: 10px;
+}
+.veggie-images{
+    display: block;
+    justify-content: space-around;
+    width: 300px;
+    height: 250px;  
+    border-radius: 10px;
+}
+li{
+    list-style: none;
+    font-size: 30px;
+}
+
+h1{
+    text-align: center;
+    font-size: 60px;
+}
+
+p{
+    text-align: center;
+    font-size: 45px;
+}
+#fruitmarket{
+  justify-content: center;
+  border-radius: 10px;
+  width:85vw;
+  height: 85vh;
+  margin-left: 6.7%;
+  box-shadow: 7px 7px 5px 7px orange;
+}
+#click-button{
+    padding: 20px;
+    border: none;
+    background-color:orange;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    margin-left: 14cm;
+    margin-top: 2cm;
+    width: 40vw;
+    font-size: 25px;
+}
