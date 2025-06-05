@@ -1,3 +1,10 @@
+@import url('https://fonts.cdnfonts.com/css/poppins');
+body{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    line-height: 32px;
+    font-style: normal;
+}
 .fruit-images{
     display: block;
     justify-content: space-around;
@@ -14,7 +21,7 @@
 }
 li{
     list-style: none;
-    font-size: 30px;
+    font-size: 28px;
 }
 
 h1{
@@ -32,7 +39,7 @@ p{
   width:85vw;
   height: 85vh;
   margin-left: 6.7%;
-  box-shadow: 7px 7px 5px 7px orange;
+  box-shadow: 7px 7px 5px 7px #cb5c23;
 }
 #click-button{
     padding: 20px;

@@ -78,5 +78,15 @@ clickButton.addEventListener("click",()=>{
     clickButton.style.backgroundColor = "orange";
 
 });
+const footer = document.createElement('footer');
+const copyright = document.createElement('p');
+copyright.textContent = 'Greens Kiosk @copyright #QueenKeza 2025 ';
+footer.appendChild(copyright);
+footer.style.backgroundColor ='#cb5c23'
+footer.style.padding = '40px';
+footer.style.height= '55px';
+footer.style.marginTop = '1cm'
+footer.style.fontSize = '25'
+document.body.appendChild(footer);
 
 
