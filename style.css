@@ -48,8 +48,12 @@ p{
     border-radius: 5px;
     color: white;
     cursor: pointer;
-    margin-left: 14cm;
+    margin-left: 18cm;
     margin-top: 2cm;
-    width: 40vw;
+    width: 28vw;
     font-size: 25px;
+    border-radius: 15px;
+}
+footer{
+    font-size: 15px;
 }
